@@ -37,6 +37,7 @@ class Dog:
 # cat.name = "Lenny"
 # cat.age = 3
 
+
 cat = Cat("Whiskers", 3, "Orange")
 print(cat.name)
 print(cat.age)
