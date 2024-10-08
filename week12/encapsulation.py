@@ -20,7 +20,6 @@ class BankAccount:
     def debit(self, amount):
         if amount < 0:
             raise ValueError("Amount must be positive")
-        if self._balance
         self._balance -= amount
 
     def credit(self, amount):
