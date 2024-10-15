@@ -19,13 +19,13 @@ To help you with KBA part 2, here is some quick revision from last term:
 Before we begin, write down a simple single-sentence definition of each of the four pillars:
 
 - Inheritance:
-  > Your answer here
+  > This pillar covers the idea of creating parent/child classes, in other words 'subclasses' where you might have a top level class but have variations of that class within it inheriting the common attributes, and combining those with the unique attributes of that subclass/child class. For example, a parent class might be Fish, and then you could have subclasses for all the different Fish.
 - Encapsulation:
-  > Your answer here
+  > This essentially refers to the idea of bringing data and functions that interact with each other together into a single object.
 - Abstraction:
-  > Your answer here
+  > This is the concept of building in functions to a class that allow you to interact with the object on a higher/simpler level, rather than needing to deal with all the intricate data/processes behind the method. For example, a start engine function would hide all that's involved in actually starting the engine.
 - Polymorphism:
-  > Your answer here
+  > Allowing different class types to interact with methods as if they were the same type. Sort of? Hard to put into words, but feel I have a reasonable understanding of this.
 
 ## Inheritance
 
